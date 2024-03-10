@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @anjaliB1
+- 👀 I’m interested in Coding, Web Development & Machine Learning
+- 🌱 I’m currently learning Machine Learning
+- 💞️ I’m looking to collaborate on Web Development Projects
